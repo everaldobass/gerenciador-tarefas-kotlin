@@ -1,2 +1,2 @@
 # gerenciador-tarefas-kotlin
-API - BackEnd do Kotlin
+API - Backend para o projero do gerenciador de tarefas do Kotlin
